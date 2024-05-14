@@ -1,0 +1,19 @@
+.board{
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 340px;
+}
+
+img{
+    width: 130px;
+    height: 140px;
+    margin: 1px;
+}
+
+body{
+    background-color: #a89d9d;
+       background-image: linear-gradient(to right,
+    #c5c5c5,#ffffff,#c5c5c5)
+}
